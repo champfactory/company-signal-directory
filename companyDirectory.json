@@ -1,0 +1,92 @@
+[
+  {
+    "name": "apple",
+    "segment": "Technology & Software",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "microsoft",
+    "segment": "Technology & Software",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "google",
+    "segment": "Technology & Software",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "amazon",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "meta",
+    "segment": "Technology & Software",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "louis vuitton",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "herm\u00e8s",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "gucci",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "tesla",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "uber",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "airbnb",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "figma",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "notion",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "miu miu",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 7
+  },
+  {
+    "name": "christian louboutin",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 7
+  }
+]
