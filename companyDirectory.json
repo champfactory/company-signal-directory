@@ -18,6 +18,12 @@
     "score": 10
   },
   {
+    "name": "alphabet",
+    "segment": "Technology & Software",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
     "name": "amazon",
     "segment": "E-commerce & Retail",
     "tier": "Tier 1",
@@ -30,28 +36,100 @@
     "score": 10
   },
   {
-    "name": "louis vuitton",
-    "segment": "Fashion & Luxury",
+    "name": "facebook",
+    "segment": "Technology & Software",
     "tier": "Tier 1",
     "score": 10
   },
   {
-    "name": "herm\u00e8s",
-    "segment": "Fashion & Luxury",
+    "name": "samsung",
+    "segment": "Technology & Software",
     "tier": "Tier 1",
     "score": 10
   },
   {
-    "name": "gucci",
-    "segment": "Fashion & Luxury",
+    "name": "oracle",
+    "segment": "Technology & Software",
     "tier": "Tier 1",
     "score": 10
   },
   {
-    "name": "tesla",
-    "segment": "Transportation & Mobility",
+    "name": "adobe",
+    "segment": "Technology & Software",
     "tier": "Tier 1",
     "score": 10
+  },
+  {
+    "name": "salesforce",
+    "segment": "Technology & Software",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "sap",
+    "segment": "Technology & Software",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "cisco",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "ibm",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "nvidia",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "intel",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "broadcom",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "taiwan semiconductor",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "tsmc",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "asml",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "spotify",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "netflix",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
   },
   {
     "name": "uber",
@@ -62,6 +140,30 @@
   {
     "name": "airbnb",
     "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "qualcomm",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "amd",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "micron technology",
+    "segment": "Technology & Software",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "applied materials",
+    "segment": "Technology & Software",
     "tier": "Tier 2",
     "score": 9
   },
@@ -78,15 +180,2517 @@
     "score": 8
   },
   {
+    "name": "stripe",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "openai",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "anthropic",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "databricks",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "canva",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "discord",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "zoom",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "slack",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "marvell technology",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "analog devices",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "lam research",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "kla corporation",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "cadence design systems",
+    "segment": "Technology & Software",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "linear",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "airtable",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "miro",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "loom",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "framer",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "whimsical",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "pitch",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "superhuman",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "slite",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "retool",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "clickup",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "asana",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "trello",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "craft docs",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "coda",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "obsidian",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "roam research",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "todoist",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "github",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "gitlab",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "sourcegraph",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "cursor",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "replit",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "vercel",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "postman",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "intercom",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "zapier",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "workos",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "mural",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "jira",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "runway",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "weights & biases",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "hugging face",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "perplexity",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "cognition",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "langchain",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "hex",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "arc",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "arc browser",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "raycast",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "commandbar",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "notable",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "heights",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "gem",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "pry",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "read.cv",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "bereal",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "clay",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "maven",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "muse",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "spect",
+    "segment": "Technology & Software",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "jpmorgan chase",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "bank of america",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "wells fargo",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "goldman sachs",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "morgan stanley",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "american express",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "visa",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "mastercard",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "paypal",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "berkshire hathaway",
+    "segment": "Financial Technology",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "square",
+    "segment": "Financial Technology",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "block",
+    "segment": "Financial Technology",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "robinhood",
+    "segment": "Financial Technology",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "coinbase",
+    "segment": "Financial Technology",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "fidelity",
+    "segment": "Financial Technology",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "charles schwab",
+    "segment": "Financial Technology",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "blackrock",
+    "segment": "Financial Technology",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "vanguard",
+    "segment": "Financial Technology",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "plaid",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "ramp",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "brex",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "chime",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "mercury",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "wise",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "revolut",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "wealthfront",
+    "segment": "Financial Technology",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "cash app",
+    "segment": "Financial Technology",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "tally",
+    "segment": "Financial Technology",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "truebill",
+    "segment": "Financial Technology",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "public",
+    "segment": "Financial Technology",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "betterment",
+    "segment": "Financial Technology",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "monzo",
+    "segment": "Financial Technology",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "louis vuitton",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "hermès",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "chanel",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "gucci",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "dior",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "prada",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "burberry",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "cartier",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "tiffany & co",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "rolex",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "nike",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "adidas",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "lvmh",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "kering",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "richemont",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "inditex",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "zara",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "h&m",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "uniqlo",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "fast retailing",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "ralph lauren",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "calvin klein",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "balenciaga",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "bottega veneta",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "saint laurent",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "versace",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "dolce & gabbana",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "armani",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "ferragamo",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "tom ford",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "valentino",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
     "name": "miu miu",
     "segment": "Fashion & Luxury",
     "tier": "Tier 3",
-    "score": 7
+    "score": 8
   },
   {
     "name": "christian louboutin",
     "segment": "Fashion & Luxury",
     "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "off-white",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "fear of god",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "stone island",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "palm angels",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "allbirds",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "warby parker",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "everlane",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "glossier",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
     "score": 7
+  },
+  {
+    "name": "away",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "burrow",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "reformation",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "italic",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "goop",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "verishop",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "ssense",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "mr porter",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "zitsticka",
+    "segment": "Fashion & Luxury",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "johnson & johnson",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "pfizer",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "abbvie",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "merck",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "eli lilly",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "novartis",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "roche",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "unitedhealth",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "medtronic",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "abbott",
+    "segment": "Health & Wellness",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "peloton",
+    "segment": "Health & Wellness",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "fitbit",
+    "segment": "Health & Wellness",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "garmin",
+    "segment": "Health & Wellness",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "dexcom",
+    "segment": "Health & Wellness",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "illumina",
+    "segment": "Health & Wellness",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "thermo fisher",
+    "segment": "Health & Wellness",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "oura",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "whoop",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "eight sleep",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "levels",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "tonal",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "mirror",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "noom",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "headspace",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "calm",
+    "segment": "Health & Wellness",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "cerebral",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "hims",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "ritual",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "nue co.",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "modern fertility",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "future",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "parsley health",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "ro",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "nurx",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "23andme",
+    "segment": "Health & Wellness",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "walmart",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "alibaba",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "shopify",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "ebay",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "etsy",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "faire",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "stockx",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "thrive market",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "target",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "home depot",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "costco",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "tjx companies",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "wayfair",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "overstock",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "1stdibs",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "chairish",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "design within reach",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "restoration hardware",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "williams sonoma",
+    "segment": "E-commerce & Retail",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "toyota",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "mercedes-benz",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "bmw",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "tesla",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "volkswagen",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "audi",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "porsche",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "ferrari",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "ford",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "general motors",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "byd",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "nio",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "rivian",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "lucid motors",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "lyft",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "didi",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "turo",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "getaround",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "lime",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "bird",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "spin",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "vanmoof",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "cowboy",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "rad power bikes",
+    "segment": "Transportation & Mobility",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "disney",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "youtube",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "instagram",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "tiktok",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "warner bros discovery",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "comcast",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "nbcuniversal",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "hbo max",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "paramount+",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "apple tv+",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "amazon prime video",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "hulu",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "peacock",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "the new york times",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "wall street journal",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "substack",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "medium",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "the athletic",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "buzzfeed",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "vox media",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "the guardian",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "letterboxd",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "pocket casts",
+    "segment": "Media & Entertainment",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "nintendo",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "sony interactive entertainment",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "microsoft gaming",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "tencent games",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "electronic arts",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "take-two interactive",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "activision blizzard",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "roblox",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "ubisoft",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "epic games",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "valve corporation",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "riot games",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "supercell",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "king digital entertainment",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "square enix",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "bandai namco",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "sega",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "capcom",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "unity technologies",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "playtika",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "zynga",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "netease games",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "mihoyo",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "krafton",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "nexon",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "electronic sports",
+    "segment": "Gaming & Interactive Entertainment",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "coca-cola",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "pepsico",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "nestlé",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "unilever",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "procter & gamble",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "mcdonald's",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "starbucks",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "mondelez international",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "general mills",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "kellogg company",
+    "segment": "Food & Beverage",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "kraft heinz",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "tyson foods",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "danone",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "campbell soup",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "keurig dr pepper",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "conagra brands",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "hormel foods",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "jm smucker",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "hershey company",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "mars incorporated",
+    "segment": "Food & Beverage",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "yum! brands",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "restaurant brands international",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "domino's pizza",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "chipotle mexican grill",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "subway",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "doordash",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "grubhub",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "instacart",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "hello fresh",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "blue apron",
+    "segment": "Food & Beverage",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "general electric",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "boeing",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "caterpillar",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "3m company",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "honeywell",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "lockheed martin",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "raytheon technologies",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "deere & company",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "emerson electric",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "illinois tool works",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "parker hannifin",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "eaton corporation",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "rockwell automation",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "danaher corporation",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "agilent technologies",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "waters corporation",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "mettler toledo",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "fortive corporation",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "roper technologies",
+    "segment": "Industrial & Manufacturing",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "sony",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "bose",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "beats",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "sennheiser",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "dyson",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "sonos",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "lg",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "panasonic",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "philips",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "xiaomi",
+    "segment": "Consumer Electronics & Audio",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "saudi aramco",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "exxon mobil",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "chevron",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "shell",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "totalenergies",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "bp",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "conocophillips",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "tesla energy",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "nextgen energy",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "first solar",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "sunpower",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "enphase energy",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "solaredge",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "vestas",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "siemens gamesa",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "canadian solar",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "jinko solar",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "trina solar",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "lg energy solution",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "catl",
+    "segment": "Energy & Industrial",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "ikea",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "lowe's",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "herman miller",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "knoll",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "steelcase",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "west elm",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "pottery barn",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "crate & barrel",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "cb2",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "hay",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "muuto",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "&tradition",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "ferm living",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "room & board",
+    "segment": "Home & Lifestyle",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "servicenow",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "workday",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "snowflake",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "hubspot",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "atlassian",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "datadog",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "mongodb",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "twilio",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "monday.com",
+    "segment": "Professional Services & Enterprise",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "bytedance",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "spacex",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "shein",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "checkout.com",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "klarna",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 1",
+    "score": 10
+  },
+  {
+    "name": "nubank",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "grab",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "gojek",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "redis",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "celonis",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "service titan",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "automation anywhere",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "ui path",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 2",
+    "score": 9
+  },
+  {
+    "name": "elastic",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "confluent",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 3",
+    "score": 8
+  },
+  {
+    "name": "checkr",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "flexport",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "convoy",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "carta",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "kraken",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "opensea",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "immutable",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "polygon",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "chainlink",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "uniswap",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 4",
+    "score": 7
+  },
+  {
+    "name": "midjourney",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 5",
+    "score": 6
+  },
+  {
+    "name": "character.ai",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 5",
+    "score": 6
+  },
+  {
+    "name": "scale ai",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 5",
+    "score": 6
+  },
+  {
+    "name": "cohere",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 5",
+    "score": 6
+  },
+  {
+    "name": "jasper",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 5",
+    "score": 6
+  },
+  {
+    "name": "stability ai",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 5",
+    "score": 6
+  },
+  {
+    "name": "adept",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 5",
+    "score": 6
+  },
+  {
+    "name": "imbue",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 5",
+    "score": 6
+  },
+  {
+    "name": "calendly",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "luma",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "docusign",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "pandadoc",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "ironclad",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "lattice",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "greenhouse",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "lever",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "gusto",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "rippling",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
+  },
+  {
+    "name": "deel",
+    "segment": "Private Unicorns & Emerging Giants",
+    "tier": "Tier 6",
+    "score": 5
   }
 ]
